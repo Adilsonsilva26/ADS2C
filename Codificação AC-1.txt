@@ -1,0 +1,3 @@
+
+O sistema principal para a automação do veiculo será a linguagem Pyton onde ela será relacionada com outros subsistemas que dependeram de algumas de suas funcionalidades.
+Subsistemas como a de  incluir algoritmos de roteamento e correspondência que direcionam carros para pessoas e pessoas para lugares, formas de pagamentos em cartão de creditos e debito, indentificação utilizando um qrcode, cadastro na plataforma mobile.

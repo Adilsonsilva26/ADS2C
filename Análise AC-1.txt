@@ -1,0 +1,9 @@
+
+O sistema deve ser automatizado para veiculo autonomo que irá realizar  viagens urbanas rápidas e localizar seu passageiro mais próximo com menor tempo possivel .Com capacidade para levar uma pessoa por vez,seu biocombustivel é feito de matéria-prima como resíduos agrícolas e óleo natural não comestível assim emitindo baixa emissão de carbono.
+
+
+
+
+
+
+
