@@ -1,0 +1,1 @@
+Sistema implantadado e controlado para que não haja imprevistos que não foi corrigido e modificado nos testes.

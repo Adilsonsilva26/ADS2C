@@ -1,0 +1,2 @@
+
+Para garantir em atender às demandas do sistema foi criado um ambiente, onde os testes simula pessoas pedindo pela plataforma mobile seu carro para locomoção só que em distancias distintas para ser verificados se o carro corresponde com o que foi proposto e verificando possiveis falhas inesperadas.

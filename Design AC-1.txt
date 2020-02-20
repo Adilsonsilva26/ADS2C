@@ -1,0 +1,2 @@
+
+Roteamento e correspondência que direcionam carros para pessoas e pessoas para lugares, formas de pagamentos em cartão de creditos e debito, indentificação utilizando um qrcode, cadastro na plataforma mobile.
