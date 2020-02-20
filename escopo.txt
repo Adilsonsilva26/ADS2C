@@ -1,0 +1,3 @@
+Escopo:
+(necessidade do cliente)
+A empresa x precisa desenvolver um carro voador. Para viagens com passageiros rapidas até 10 dolares.
